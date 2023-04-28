@@ -1,6 +1,6 @@
 ## 🙍 About me
 
-I'm 23 years old, technical student.
+Hi, I'm 23 years old and a final year student of computer science.
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,ts,js,html,css,figma,git)](https://skills.thijs.gg)
 
