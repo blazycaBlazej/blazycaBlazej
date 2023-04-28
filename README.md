@@ -4,12 +4,12 @@ Hi, I'm 23 years old and a final year student of computer science.
 
 ## Stack
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,ts,js,html,css,figma,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,redux,ts,js,html,css,sass,mysql,git,figma,postman)](https://skills.thijs.gg)
 
 
 <!--
 **blazycaBlazej/blazycaBlazej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/
+https://github.com/tandpfun/skill-icons
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
