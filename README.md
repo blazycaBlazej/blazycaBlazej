@@ -1,4 +1,8 @@
 ### Hi there 👋
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+
 
 <!--
 **blazycaBlazej/blazycaBlazej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
